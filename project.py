@@ -436,7 +436,7 @@ def user_special(player_health, player_attacks, player_damage, player_special, b
 
 
 def close_game():
-    sys.exit("Thanks for playing ROYOCHERENTS! 🚀 You’re leaving now? 🥺 Hope you saved your dignity—or didn’t. See ya, fellow Poyucher! ✌️🎮")
+    sys.exit("Thanks for playing ROYOCHERENTS! 🚀 You’re leaving now? 🥺 Hope you saved your dignity or didn’t. See ya, fellow Royocher! ✌️🎮")
 
 
 
