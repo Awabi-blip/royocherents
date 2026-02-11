@@ -48,3 +48,5 @@ Calls for user's special attack. Calculates users, and bot's health after user's
 
 ## close_game:
 Exits the code
+
+# This was my first project ever, and I coded this back in 2024!
